@@ -8,17 +8,17 @@ namespace Practice167
 {
     public class Calculator
     {
-        public int Additional(int a, int b)
+        public int Addition(int a, int b)
         {
             return a + b;
         }
 
-        public int Subtraction(int a, int b)
+        public int Substraction(int a, int b)
         {
             return a - b;
         }
 
-        public int Miltiplication(int a, int b)
+        public int Multiplication(int a, int b)
         {
             return a * b;
         }
